@@ -11,7 +11,7 @@ workflows:
       vars:
         BUNDLE_ID: "com.SweetSensation"
         XCODE_WORKSPACE: "SweetSensation.xcworkspace" # <-- Put the name of your Xcode workspace here
-        XCODE_SCHEME: "SweetSensation.xcworkspace" # <-- Put the name of your Xcode scheme here
+        XCODE_SCHEME: "SweetSensation" # <-- Put the name of your Xcode scheme here
         APP_STORE_APPLE_ID: 6737193848
       xcode: 15.3
     scripts:
