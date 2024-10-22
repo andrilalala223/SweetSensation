@@ -1,0 +1,215 @@
+
+[
+{
+    "name": "Bonbon Mix (1Kg)",
+    "price": "15.99",
+    "description": "Inside each bag, you'll find a tantalizing selection of seven delicious bonbon flavours: apple, blue raspberry, bubblegum, cherry, lemon, strawberry & watermelon.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Bonbon Mix (500g)",
+    "price": "8.99",
+    "description": "Inside each bag, you'll find a tantalizing selection of seven delicious bonbon flavours: apple, blue raspberry, bubblegum, cherry, lemon, strawberry & watermelon.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Fizzy Mix (1Kg)",
+    "price": "15.99",
+    "description": "Packed to the brim with up to 25 different varieties of fizzy sweets, this tantalizing assortment guarantees a mouthwatering adventure with every bite.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Fizzy Mix (500g)",
+    "price": "8.99",
+    "description": "Packed to the brim with up to 25 different varieties of fizzy sweets, this tantalizing assortment guarantees a mouthwatering adventure with every bite.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Mega Mix (1Kg)",
+    "price": "15.99",
+    "description": "Bursting with an extensive assortment of up to 50 different plain and fizzy sweets, this colossal mix promises a whirlwind of flavor and excitement with every bite.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Mega Mix (500g)",
+    "price": "8.99",
+    "description": "Bursting with an extensive assortment of up to 50 different plain and fizzy sweets, this colossal mix promises a whirlwind of flavor and excitement with every bite.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Pencil Mix (500g)",
+    "price": "8.99",
+    "description": "The tasty flavours include Apple, Blue Raspberry, Tutti Frutti, Strawberry, Fizzy Strawberry, Fizzy Rainbow Twist & Fizzy Cola.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Plain Mix (1Kg)",
+    "price": "15.99",
+    "description": "Overflowing with up to 25 different varieties of plain sweets, this delectable assortment offers a delightful array of flavors and textures to satisfy every sweet tooth.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Plain Mix (500g)",
+    "price": "8.99",
+    "description": "Overflowing with up to 25 different varieties of plain sweets, this delectable assortment offers a delightful array of flavors and textures to satisfy every sweet tooth.",
+    "type": "Sweet Bags"
+},
+{
+    "name": "Halloween Mix (1Kg)",
+    "price": "15.99",
+    "description": "Packed with over 20 different plain & fizzy Halloween-themed sweets, this tasty bag of jellies is perfect for parties, gifts, or even trick-or-treaters.",
+    "type": "Halloween"
+},
+{
+    "name": "Tayto Banshee Bones",
+    "price": "1.50",
+    "description": "Whether you're seeking a tangy snack to liven up your day or craving a flavourful treat with a punch, Tayto Banshee Bones crisps are sure to hit the spot.",
+    "type": "Halloween"
+},
+{
+    "name": "Vidal Bloody Eyes (1Kg)",
+    "price": "8.50",
+    "description": "Perfect for adding a creepy touch to your Halloween party or treat bags, these bloody eyes are as delicious as they are eerie!",
+    "type": "Halloween"
+},
+{
+    "name": "Vidal Jelly Anacondas (1Kg)",
+    "price": "8.50",
+    "description": "Perfect for a wild snack or adding a playful twist to any party, these long, stretchy anacondas are as tasty as they are fun to eat!",
+    "type": "Halloween"
+},
+{
+    "name": "Vidal Jelly Bones (1.5Kg)",
+    "price": "14.50",
+    "description": "Perfect for Halloween parties or adding a playful twist to any treat table, these jelly bones are a deliciously fun way to celebrate the season!",
+    "type": "Halloween"
+},
+{
+    "name": "Vidal Jelly Pumpkins (1Kg)",
+    "price": "8.50",
+    "description": "This 1Kg bag is packed with soft, chewy pumpkin-shaped jellies bursting with fruity flavour.",
+    "type": "Halloween"
+},
+{
+    "name": "Vidal Sour Feet (1Kg)",
+    "price": "8.50",
+    "description": "Bursting with fruity flavour, these fun and tasty treats are perfect for those who love a delicious sour kick in every bite!",
+    "type": "Halloween"
+},
+{
+    "name": "Vidal Spooky Spiders (1.7Kg)",
+    "price": "14.50",
+    "description": "Perfect for Halloween parties or anytime you crave a creepy-crawly treat, these spooky spiders are bursting with fruity goodness & a deliciously sour bite!",
+    "type": "Halloween"
+},
+
+{
+    "name": "Freeze Dried Assorted Mix",
+    "price": "5.50",
+    "description": "This exciting blend features freeze-dried versions of your favorite sweets like fried eggs, watermelon slices, Skittles, & Swizzels.",
+    "type": "Freeze Dried"
+},
+{
+    "name": "Freeze Dried Bonbons",
+    "price": "6.50",
+    "description": "These airy, crunchy bites intensify the fruity flavour of traditional bonbons, offering a unique and satisfying texture.",
+    "type": "Freeze Dried"
+},
+{
+    "name": "Freeze Dried Skittles",
+    "price": "5.50",
+    "description": "Perfect for a fun and unique snack, freeze-dried Skittles offer an exciting twist on a fan-favourite sweet.",
+    "type": "Freeze Dried"
+},
+{
+    "name": "Freeze Dried Swizzels Chew Bars",
+    "price": "5.50",
+    "description": "Perfect for fans of classic sweets, freeze-dried Swizzels Chew Bars offer a fun & flavourful snacking experience with a delightful crunch!",
+    "type": "Freeze Dried"
+},
+{
+    "name": "Freeze Dried Wham Extreme Chew Bars",
+    "price": "5.50",
+    "description": "Perfect for fans of bold & sour flavours, this bag of freeze-dried Wham Extreme Chew Bars offer an exciting & crunchy twist on a beloved treat!",
+    "type": "Freeze Dried"
+},
+
+{
+    "name": "Tayto Thai Rings",
+    "price": "1.50",
+    "description": "Infused with the essence of Thai cuisine, these crisps offer a tantalizing taste experience that's both bold and satisfying.",
+    "type": "Crisps"
+},
+{
+    "name": "Tayto Hot Lips",
+    "price": "1.50",
+    "description": "Each crunchy bite offers a tantalizing blend of heat and spice, perfectly balanced for an unforgettable snacking experience.",
+    "type": "Crisps"
+},
+{
+    "name": "Tayto Banshee Bones",
+    "price": "1.50",
+    "description": "Each crunchy bite delivers a burst of zesty vinegar paired with a hint of salt, creating a tantalizing taste experience that's both bold and satisfying.",
+    "type": "Crisps"
+},
+{
+    "name": "Tayto Onion Rings",
+    "price": "1.50",
+    "description": "These rings have layers and layers of flavour and you will be jumping through rings of fire for more.",
+    "type": "Crisps"
+},
+{
+    "name": "Tayto Spicy Rings",
+    "price": "1.50",
+    "description": "Bursting with bold spices and a satisfying crunch, Tayto Spicy Rings are the ultimate snack for spice lovers seeking a flavourful thrill.",
+    "type": "Crisps"
+},
+{
+    "name": "Juicy Drop Mallows Cola",
+    "price": "2.00",
+    "description": "Perfect for sweet lovers seeking a fun and tasty twist, Juicy Drop Mallows Cola offer a delicious combination of sweetness & fizzy cola goodness.",
+    "type": "Hanging Bags"
+},
+{
+    "name": "Juicy Drop Mallows Raspberry",
+    "price": "2.00",
+    "description": "Perfect for sweet lovers seeking a fun and tasty twist, Juicy Drop Mallows Raspberry offer a delicious combination of sweetness & fizzy raspberry goodness.",
+    "type": "Hanging Bags"
+},
+{
+    "name": "Milkybar Rowntree's Jelly",
+    "price": "2.00",
+    "description": "Perfect for a sweet snack or dessert, Milkybar Rowntree's Jelly & Ice Cream offer a playful & delicious twist on a classic favourite.",
+    "type": "Hanging Bags"
+},
+{
+    "name": "Refreshers Fizzy Softies",
+    "price": "2.00",
+    "description": "With 120g of fruity, fizzy goodness, these softies are the perfect way to satisfy your sweet tooth.",
+    "type": "Hanging Bags"
+},
+{
+    "name": "A&W Root Beer",
+    "price": "2.50",
+    "description": "Imported from the USA, this classic soda offers a smooth blend of sweet and spicy flavours with a hint of vanilla, creating the perfect refreshing drink.",
+    "type": "Drinks"
+},
+{
+    "name": "BARR American Cream Soda",
+    "price": "1.15",
+    "description": "Perfect for enjoying on its own or paired with your favorite snacks, BARR American Cream Soda is sure to become a go-to beverage for any occasion.",
+    "type": "Drinks"
+},
+{
+    "name": "BARR Bubblegum",
+    "price": "1.15",
+    "description": "This whimsical beverage brings the nostalgic taste of bubblegum to life in a fizzy and refreshing drink.",
+    "type": "Drinks"
+},
+{
+    "name": "Gatorade Cool Blue",
+    "price": "3.50",
+    "description": "With its smooth, fruity flavour, a bottle of Gatorade Cool Blue is perfect for replenishing your body during workouts or whenever you need a revitalising boost.",
+    "type": "Drinks"
+},
+]
